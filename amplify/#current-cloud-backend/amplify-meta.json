@@ -1,0 +1,15 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cvgrade-dev-102325-authRole",
+      "UnauthRoleArn": "arn:aws:iam::211125701165:role/amplify-cvgrade-dev-102325-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::211125701165:role/amplify-cvgrade-dev-102325-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-cvgrade-dev-102325-deployment",
+      "UnauthRoleName": "amplify-cvgrade-dev-102325-unauthRole",
+      "StackName": "amplify-cvgrade-dev-102325",
+      "StackId": "arn:aws:cloudformation:us-east-1:211125701165:stack/amplify-cvgrade-dev-102325/7634e320-c3f7-11ee-ab9c-12d9ef47aa19",
+      "AmplifyAppId": "d28b8g7f6iuezp"
+    }
+  }
+}
